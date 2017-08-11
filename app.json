@@ -1,0 +1,16 @@
+{
+  "name": "econext",
+  "description": "json to review app",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
